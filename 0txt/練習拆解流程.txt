@@ -1,0 +1,13 @@
+
+
+=== 第二週 ===
+1. 準備環境
+  - cdn (https://cdnjs.com/libraries/vue)
+  - import { createApp } from 'https://cdnjs.cloudflare.com/ajax/libs/vue/3.2.30/vue.esm-browser.min.js'
+
+2. 切版
+3. 登入註冊
+4. 取得左方列表
+5. 陳列右邊資訊
+
+=== 第三週 ===
